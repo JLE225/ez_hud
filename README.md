@@ -8,7 +8,7 @@ Simple FiveM hud that has some features used for your FiveM server
 
 ## Installation
 
-- https://github.com/overextended/ox_lib/releases/latest/download/ox_lib.zip
+- https://github.com/JLE225/ez_hud/releases/tag/1.0.0
 - ensure ez_hud to your config.cfg server config
 
 ## Usage
