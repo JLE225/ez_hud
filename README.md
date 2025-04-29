@@ -1,3 +1,15 @@
+# EZ_HUD
+
+Simple FiveM hud that has some features used for your FiveM server
+
+- Notification
+- TextUI
+- Progressbar
+
+## Installation
+
+- https://github.com/overextended/ox_lib/releases/latest/download/ox_lib.zip
+- ensure ez_hud to your config.cfg server config
 
 ## Usage
 Notification
